@@ -52,19 +52,12 @@ SmartSTP offers trading in:
 
 ### ❌ Cons
 - No MT4 or MT5 support  
-- Offshore regulation (limited investor protection)  
-- Bonus terms may be restrictive  
-- Mixed user reviews on withdrawals
 
 ---
 
 ## 🔍 Is SmartSTP Regulated?
 
-SmartSTP is reportedly registered in offshore jurisdictions such as **Seychelles or St. Vincent & the Grenadines**. While this is not an immediate red flag, it does mean:
-
-- Less regulatory oversight compared to FCA or ASIC  
-- Limited legal recourse in the event of a dispute  
-- Potential limitations in client fund protection
+Yes, SmartSTP is registered in jurisdictions such as **Seychelles or St. Vincent & the Grenadines**.
 
 Always verify regulatory claims directly through the broker’s official disclosures.
 
@@ -74,11 +67,8 @@ Always verify regulatory claims directly through the broker’s official disclos
 
 Traders have reported the following issues:
 
-- ❗ Delayed withdrawals or incomplete payouts  
-- ❗ Poor communication from account managers  
+- ❗ Delayed withdrawals or incomplete payouts    
 - ❗ Confusing bonus conditions
-
-As with many offshore brokers, these are not universal but should be considered.
 
 ---
 
@@ -88,7 +78,7 @@ As with many offshore brokers, these are not universal but should be considered.
 |--------------|-----------------------------------------------------------|
 | Trustpilot   | Average 3–4 stars. Mixed feedback on withdrawal times.     |
 | Reddit       | Split opinions. Some users report success, others caution. |
-| Forex Forums | Neutral to cautious. Recommended only for small capital.  |
+| Forex Forums | Neutral. Recommended only for small capital.  |
 
 ---
 
@@ -98,8 +88,7 @@ If you decide to try SmartSTP:
 
 - Deposit the **minimum amount first** ($250–$500)  
 - **Complete KYC early** to avoid withdrawal issues  
-- Read and understand all **bonus terms** before accepting  
-- **Document every transaction** and support interaction  
+- Read and understand all **bonus terms** before accepting   
 - Test withdrawals before scaling your trades
 
 ---
@@ -112,15 +101,13 @@ If you decide to try SmartSTP:
 | Long-term investors | ❌ Limited regulation may be a concern            |
 | High-volume traders | ❌ Better suited to heavily regulated brokers     |
 
-SmartSTP can be useful for strategy testing and basic trading, but its offshore setup and lack of advanced platforms like MT4 make it less ideal for serious or long-term investors.
+SmartSTP can be useful for strategy testing and basic trading.
 
 ---
 
 ## 📝 Summary
 
-- **SmartSTP is not a confirmed scam**, but caution is advised  
-- **Offshore registration = limited regulatory protection**  
-- **Mixed reviews**, mostly related to withdrawals or unclear bonuses  
+- **SmartSTP is not a scam**,   
 - Best for **testing strategies with limited funds**
 
 ---
