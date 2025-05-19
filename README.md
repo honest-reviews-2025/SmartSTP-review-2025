@@ -15,6 +15,7 @@ It’s clear that traders are looking for clear, unbiased information. This **Sm
 - Real user experiences  
 - How to use SmartSTP safely
 
+![TradeEU Global Logo]()
 ---
 
 ## 🧩 What Is SmartSTP?
